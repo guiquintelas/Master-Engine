@@ -1,0 +1,45 @@
+BAR1@Barra de experiência. Voce precisa de 
+BAR2@ de Exp para o proximo level.
+BARVM1@VIDA
+ATR1@Vida
+ATR2@Dano
+ATR3@Defesa
+ATR4@Atributos
+ML1@Aplicar
+ML2@Retornar Pontos
+ML3@Maximo de Traps: A cada nivel dessa habilidade o maximo de traps em campo é acrescentado em 1.
+ML4@Potion Rate: A cada nivel dessa habilidade a chance de um monstro droppar uma POTION DE VIDA aumenta em 2%.
+ML5@Alcance Maximo: A cada nivel dessa habilidade seu alcance maximo aumenta em 10.
+ML6@Custo Reduzido: A cada nivel nessa habilidade sua trap custa menos 10 de mana.
+ML7@Projetil Venenoso: A cada nivel nessa habilidade seu ataque ganha 3% de chance de envenenar.
+ML8@Trap Incendiária: Sua trap agora bota fogo em seus inimigos! A cada nivel dessa habilidade seu fogo se espalha para +1 monstro.
+ML9@Recarregamento Rápido: A cada nivel nessa habilidade a recarga de sua trap diminui em 1.5 segundos.
+ML10@Sua trap agora atinge em ÁREA! Todos atingidos receberão o status da trap e serâo arremessados. A cada nivel dessa habilidade +20 de ÁREA!
+ML11@Projetil Duplo: Seu projetil magicamente se duplica! Mas sem custo de mana também!
+ML12@Projetil Triplo: Sinta a emoção de atirar com uma shotgun.
+ML13@Pontos de Habilidade: 
+MM1@Mochila
+MO1@Musica
+MO2@Barra Vida/Mana
+MO3@:Ativada
+MO4@:Invertida
+MO5@Posição
+STS1@BUFF DE DANO: Você possui alguma forma de magia em seu corpo que aumenta sua força.
+STS2@ENVENENADO: Voce foi envenenado e vai sofrer dano 
+STS3@ vezes
+STS4@GROUNDED: Voce foi atingido e nao pode se mexer.
+STS5@LENTO: Voce foi atingido com uma magia, perdendo 
+STS6@% de speed.
+STS7@ARMADILHA PRONTA: Apertando 'E' você pode colocar uma poderosa trap, causando dano e envenenado quem a pisar.
+STS8@RECARREGANDO ARMADLHA: Armadilha     usada recentemente. espere até que possa usa-la novamente.
+STS9@TRAUMATIZADO: Voce tomou dano recentemente, nao podendo assim regenerar passivamente.
+ITEN1@Baú
+ITEN2@Mochila[5]
+ITEN3@MochilaAdv[7]
+ITEN4@Mochila Chique[10]
+ITEN5@Mochila do Mal[15]
+ITEN6@Potion de Força
+ITEN7@Potion de Mana
+ITEN8@Potion de Vida
+ITEN9@Armadura de Couro
+ITEN10@

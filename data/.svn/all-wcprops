@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/26/trunk/data
+END
+multiTex.frg
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/data/multiTex.frg
+END
+settingUniformArray.frg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/26/trunk/data/settingUniformArray.frg
+END
+normal.png
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/23/trunk/data/normal.png
+END
+glLight_VertShader.vrt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/data/glLight_VertShader.vrt
+END
+wave.vrt
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/trunk/data/wave.vrt
+END
+base.png
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/trunk/data/base.png
+END
+glLight_VertShader.frg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/data/glLight_VertShader.frg
+END
+wave.frg
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/11/trunk/data/wave.frg
+END
+basicVertexShader.vrt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/26/trunk/data/basicVertexShader.vrt
+END
+julia.frg
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/11/trunk/data/julia.frg
+END
+mandelbrot.frg
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/11/trunk/data/mandelbrot.frg
+END
+multiTex.vrt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/17/trunk/data/multiTex.vrt
+END
+fractal.vrt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/trunk/data/fractal.vrt
+END
